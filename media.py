@@ -11,3 +11,4 @@ class Movie():
         self.title = title
         self.poster_image_url = baseImgUrl + poster_image
         self.trailer_youtube_url = baseYouUrl + trailer_youtube
+        
