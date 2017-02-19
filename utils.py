@@ -19,7 +19,6 @@ title = "Shawshank Redemption"
 poster_image_url = (
     'M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE'
     '@._V1_UY1200_CR88,0,630,1200_AL_.jpg')
-print poster_image_url
 youtube_key = "6hB3S9bIaco"
 movies.extend([media.Movie(title, poster_image_url, youtube_key)])
 
@@ -27,7 +26,6 @@ title = "Arrival"
 poster_image_url = (
     'M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy'
     '._V1_SY1000_CR0,0,640,1000_AL_.jpg')
-print poster_image_url
 youtube_key = "tFMo3UJ4B4g"
 movies.extend([media.Movie(title, poster_image_url, youtube_key)])
 
